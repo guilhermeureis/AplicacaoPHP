@@ -1,7 +1,1 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: guilherme.reis
- * Date: 20/04/2018
- * Time: 14:58
- */
+<h1> Está funcionando!!!</h1>
